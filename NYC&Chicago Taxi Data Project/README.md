@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="<p align="center">
-  <img src="https://github.com/HamzahDrawsheh/Power-BI-projects-and-dashboards/blob/main/Security%20Email%20Phishing%20Data%20Project/Screenshot%202026-02-09%20014932.png" width="1600", hight="1000">
+  <img src="https://github.com/HamzahDrawsheh/Power-BI-projects-and-dashboards/blob/main/NYC%26Chicago%20Taxi%20Data%20Project/Screenshot%202026-02-09%20022231.png" width="1600", hight="1000">
 </p>
 " width="1000", hight="700">
 </p>
