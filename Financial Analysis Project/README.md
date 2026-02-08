@@ -32,7 +32,7 @@ The dataset follows a **star schema** model, making it suitable for BI and analy
 ## Dataset Description
 The dataset contains both **fact** and **dimension** tables, commonly used in data warehousing and business intelligence.
 
-### 🔹 Fact Table
+### Fact Table
 **FactSale**
 - Sales Amount  
 - Profit  
