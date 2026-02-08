@@ -1,4 +1,6 @@
-# 📊 Sales Analysis Dashboard (Power BI)
+# Sales Analysis Dashboard (Power BI)
+
+Dashboard Link: https://app.powerbi.com/links/jl6Rca1nxl?ctid=13e5772d-fae9-4291-8e92-3ee771b9ec38&pbi_source=linkShare
 
 ## Sales Analysis:
 <p align="center">
@@ -16,7 +18,7 @@
 </p>
 
 
-## 📌 Project Overview
+## Project Overview
 This project focuses on analyzing sales data using **Power BI** to extract meaningful insights that support business decision-making.  
 The dashboard is designed with a **clear analytical structure** and consists of **three main pages**:
 - Sales Overview
@@ -27,7 +29,7 @@ The dataset follows a **star schema** model, making it suitable for BI and analy
 
 ---
 
-## 🗂️ Dataset Description
+## Dataset Description
 The dataset contains both **fact** and **dimension** tables, commonly used in data warehousing and business intelligence.
 
 ### 🔹 Fact Table
@@ -45,7 +47,7 @@ This table represents the **core transactional data** used for all calculations 
 
 ---
 
-### 🔹 Dimension Tables
+### Dimension Tables
 - **DimDate**  
   Contains date-related attributes (year, month, quarter, etc.) to enable time-based analysis.
 
@@ -63,7 +65,7 @@ This table represents the **core transactional data** used for all calculations 
 
 ---
 
-## 🧩 Data Model
+## Data Model
 The dataset is structured using a **Star Schema**, where:
 - `FactSale` acts as the central table.
 - Dimension tables are connected via primary and foreign keys.
@@ -75,7 +77,7 @@ This structure improves:
 
 ---
 
-## 📈 Dashboard Pages Explanation
+## Dashboard Pages Explanation
 
 ### 1️⃣ Sales Overview
 This page provides a high-level view of sales performance:
@@ -84,7 +86,7 @@ This page provides a high-level view of sales performance:
 - Sales by Product and Category
 - Key KPIs for quick business insights
 
-📌 **Purpose:**  
+**Purpose:**  
 Help stakeholders quickly understand overall sales performance and trends.
 
 ---
@@ -96,7 +98,7 @@ Focused on profitability across different dimensions:
 - Profit by Product
 - Profit by Territory / Region
 
-📌 **Purpose:**  
+**Purpose:**  
 Identify the most and least profitable products and regions to support pricing and strategy decisions.
 
 ---
@@ -107,12 +109,12 @@ Geographical analysis at the state level:
 - Regional comparisons
 - Performance distribution across locations
 
-📌 **Purpose:**  
+**Purpose:**  
 Enable location-based decision-making and market performance evaluation.
 
 ---
 
-## 🎯 Business Value & Use Cases
+## Business Value & Use Cases
 This dashboard can help:
 - Monitor sales and profit performance
 - Identify high-performing products and regions
@@ -120,7 +122,4 @@ This dashboard can help:
 - Support strategic planning and forecasting
 - Improve data-driven decision-making
 
- 
-
-If you find this project useful, feel free to ⭐ the repository!
 
