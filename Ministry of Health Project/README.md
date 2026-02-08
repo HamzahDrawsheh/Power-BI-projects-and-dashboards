@@ -2,6 +2,8 @@
 <p align="center">
   <img src="https://github.com/HamzahDrawsheh/Power-BI-projects-and-dashboards/blob/main/Screenshot%202026-02-09%20021439.png" width="1500", hight="950">
 </p>
+## Dashboard Link: https://app.powerbi.com/links/OkGKHOBua8?ctid=13e5772d-fae9-4291-8e92-3ee771b9ec38&pbi_source=linkShare
+
 
 ## Project Overview
 This project analyzes the Nutrition BMINDS Food Insecurity Survey and Stress dataset collected in Jordan. The dataset was designed to evaluate factors related to well-being, including food security, resilience, mental health, and stress mindset among the population. Data was collected from over 900 participants across different regions in Jordan.
