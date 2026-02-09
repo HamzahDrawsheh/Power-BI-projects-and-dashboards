@@ -1,6 +1,6 @@
 # Nutrition BMINDS Food Insecurity and Stress Dashboard
 <p align="center">
-  <img src="https://github.com/HamzahDrawsheh/Power-BI-projects-and-dashboards/blob/main/Screenshot%202026-02-09%20021439.png" width="1500", hight="950">
+  <img src="https://github.com/HamzahDrawsheh/Power-BI-projects-and-dashboards/blob/main/Ministry%20of%20Health%20Project/Screenshot%202026-02-09%20021439.png" width="1500", hight="950">
 </p>
 
 ## Dashboard Link: https://app.powerbi.com/links/OkGKHOBua8?ctid=13e5772d-fae9-4291-8e92-3ee771b9ec38&pbi_source=linkShare
